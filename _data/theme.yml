@@ -2,12 +2,12 @@
 
 # Site settings
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: CollectionBuilder-Runthrough 
 # choose metadata, be sure to also change page_gen data setting!
-metadata: collection-metadata # check against cdm-collection-id below -- this should be used in config file as well
+metadata: pnla-metadata # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/dobbkc/collectionbuilder-runthrough
 
 # header and head metadata
 # tagline appears in banner
@@ -18,7 +18,7 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: dobbkc
 
 
 # Home page
