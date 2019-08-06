@@ -7,7 +7,7 @@ title: CollectionBuilder-Runthrough
 metadata: pnla-metadata # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
-repository: https://github.com/dobbkc/collectionbuilder-runthrough
+repository: https://dobbkc.github.io/CollectionBuilder-Runthrough/
 
 # header and head metadata
 # tagline appears in banner
